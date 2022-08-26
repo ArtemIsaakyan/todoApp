@@ -1,0 +1,54 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  background: #fff;
+}
+
+a {
+  font-weight: 500;
+  color: #000;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 1.1;
+}
+
+.App {
+  max-width: 1440px;
+  margin: 40px auto 0 auto;
+  padding: 0 20px;
+}
+
+.title {
+  margin-bottom: 30px;
+}
+
+.input-text {
+  height: 30px;
+  max-width: 300px;
+  width: 100%;
+  font-size: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  outline: none;
+  border-radius: 20px;
+  background: #fff;
+}
+
+
+.btn {
+  background: none;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,56 @@
+{
+  "labels": [
+    {
+      "id": 1,
+      "title": "fun"
+    },
+    {
+      "id": 2,
+      "title": "work"
+    },
+    {
+      "id": 3,
+      "title": "study"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "title": "some name of task 1",
+      "data": "12:00",
+      "categories": ["fun", "work"]
+    },
+    {
+      "id": 2,
+      "title": "some name of task 2",
+      "data": "12:00",
+      "categories": ["fun", "work"]
+    },
+    {
+      "id": 3,
+      "title": "some name of task 3",
+      "data": "12:00",
+      "categories": ["fun", "work"]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "colorName": "green",
+      "bgHex": "#008000",
+      "fontHex": "#fff"
+    },
+    {
+      "id": 2,
+      "colorName": "blue",
+      "bgHex": "#1d90c6",
+      "fontHex": "#fff"
+    },
+    {
+      "id": 3,
+      "colorName": "red",
+      "bgHex": "#d11515",
+      "fontHex": "#fff"
+    }
+  ]
+}
