@@ -1,0 +1,32 @@
+.lables__create-block {
+    display: flex;
+}
+
+.lables__input-text {
+    margin-right: 15px;
+}
+
+.lables__list {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 20px;
+    margin-top: 20px;
+}
+
+.lables__item {
+    display: flex;
+    justify-content: space-between;
+    background: #1d90c6;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.lables__btn-remove {
+    opacity: 0;
+}
+
+.lables__item:hover .lables__btn-remove {
+    opacity: 1;
+    transition: opacity 150ms ease-in-out;
+} 
