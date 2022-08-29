@@ -1,19 +1,19 @@
-.lables__create-block {
+.labels__create-block {
     display: flex;
 }
 
-.lables__input-text {
+.labels__input-text {
     margin-right: 15px;
 }
 
-.lables__list {
+.labels__list {
     display: grid;
     grid-template-columns: repeat(4, auto);
     grid-gap: 20px;
     margin-top: 20px;
 }
 
-.lables__item {
+.labels__item {
     display: flex;
     justify-content: space-between;
     background: #1d90c6;
@@ -22,11 +22,13 @@
     border-radius: 10px;
 }
 
-.lables__btn-remove {
+
+
+.labels__btn-remove {
     opacity: 0;
 }
 
-.lables__item:hover .lables__btn-remove {
+.labels__item:hover .labels__btn-remove {
     opacity: 1;
     transition: opacity 150ms ease-in-out;
 } 

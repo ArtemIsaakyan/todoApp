@@ -1,12 +1,13 @@
-import Lables from "./Labels"
+import Labels from './Labels';
+import List from './List';
 
 function App() {
-
   return (
     <div className="App">
-      <Lables />
+      <Labels />
+      <List />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
