@@ -1,11 +1,11 @@
 import Labels from './Labels';
-import List from './List';
+import Tasks from './Tasks';
 
 function App() {
   return (
     <div className="App">
       <Labels />
-      <List />
+      <Tasks />
     </div>
   );
 }

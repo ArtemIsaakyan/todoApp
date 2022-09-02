@@ -1,51 +1,23 @@
 {
   "labels": [
     {
-      "id": "674d68e1-e2d6-4a5c-8241-64a212778f7a",
-      "title": "dfsdfsdfs"
+      "id": "4455326d-4d42-4c1e-92b4-104988e86785",
+      "title": "Work"
     },
     {
-      "id": "e8514492-ef25-40b6-aafb-2248b26f752b",
-      "title": "dfsdfsdfsfddfsd"
-    },
-    {
-      "id": "1206a17b-ff75-4e93-bc6a-ae6a414156dd",
-      "title": "dsfsdds"
-    },
-    {
-      "id": "2fecc88e-64ff-4423-8b65-27edee0bbe97",
-      "title": "dsfsddssdffds"
+      "id": "273b5503-fdca-4622-9c56-bbd14ad4f2fa",
+      "title": "Study"
     }
   ],
+
   "list": [
     {
       "id": 1,
       "title": "some name of task 1",
-      "data": "12:00",
-      "categories": [
-        "fun",
-        "work"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "some name of task 2",
-      "data": "12:00",
-      "categories": [
-        "fun",
-        "work"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "some name of task 3",
-      "data": "12:00",
-      "categories": [
-        "fun",
-        "work"
-      ]
+      "data": "12:00"
     }
   ],
+
   "colors": [
     {
       "id": 1,
